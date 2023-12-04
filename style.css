@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    padding-top: 15px;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+header{
+    background-color: aqua;
+    height: 60px;
+    width: auto;
+}
